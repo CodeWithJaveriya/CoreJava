@@ -1,2 +1,0 @@
-class FlipKart extends ECommerence{
-}

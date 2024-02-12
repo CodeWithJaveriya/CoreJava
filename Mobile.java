@@ -1,4 +1,0 @@
-class Mobile extends ElectronicDevice{
-
-
-}
