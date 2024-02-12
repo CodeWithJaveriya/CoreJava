@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="org-apache-xmlbeans-6.5.0.Final-tests">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/org-apache-xmlbeans-6.5.0.Final-tests.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
